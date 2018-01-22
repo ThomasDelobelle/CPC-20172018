@@ -1,0 +1,6 @@
+Description : 
+Check for each jump if a sub-jump can go further to take it. And it stop when it's the end of the vector.
+
+Time Complexity : O(N)
+
+Space Complexity : O(N)

@@ -1,0 +1,7 @@
+Description :
+Check if the sum can be divided by 3. And will search the number of different situation exists to cut the vector in 3 slides where the sum
+is the same. It check in one way and the other to know if it exists many possibilities at the first cut and the second cut.
+
+Time Complexity : O(T²)
+
+Space Complexity : O(T)

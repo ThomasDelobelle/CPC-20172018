@@ -1,0 +1,7 @@
+Description : 
+It concatenates the second string with himself to found the longest subsequence (to don't manipulate the iterator) and will found 
+the first letter which correspond and count the maximum sequence between the two strings.
+
+Time Complexity : O(T²)
+
+Space Complexity : O(T)

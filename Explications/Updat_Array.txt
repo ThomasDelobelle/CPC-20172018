@@ -1,0 +1,6 @@
+Description : 
+Execution of the N operations on the U elements of the vector and then print the C numbers asked.
+
+Time Complexity : O(U*N+C)
+
+Space Complexity : O(N)

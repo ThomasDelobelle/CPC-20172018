@@ -1,0 +1,8 @@
+Description : 
+For this problem, I update an array of integer with the new maximum result which
+is the comparison to the previous element of size w sum with the new value (if the weight is
+always right) and the previous value of the actual case.
+
+Time Complexity : O(NW)
+
+Space Complexity : O(NW)

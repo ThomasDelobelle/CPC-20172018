@@ -1,0 +1,6 @@
+Description : 
+For each test, it compare the characters in the range and count which respect the rule.
+
+Time Complexity : O(T)
+
+Space Complexity : O(A)

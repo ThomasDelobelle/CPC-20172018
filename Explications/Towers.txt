@@ -1,0 +1,6 @@
+Description : 
+Compare all different values to know the maximum same number and the different numbers that there are.
+
+Time Complexity : O(N log N)
+
+Space Complexity : O(N)

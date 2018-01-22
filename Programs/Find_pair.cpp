@@ -42,5 +42,5 @@ int main(){
         }
     }
     sort(B.begin(),B.end(),sort_comparator);
-    cout<<endl<<B[N-1][0]<<' '<<B[N-1][1];
+    cout<<B[N-1][0]<<' '<<B[N-1][1]<<endl;
 }

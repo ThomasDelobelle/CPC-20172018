@@ -1,0 +1,6 @@
+Description : 
+The program browses the string and search if the characters respect one of the three rules.
+
+Time Complexity : O(A)
+
+Space Complexity : O(A)

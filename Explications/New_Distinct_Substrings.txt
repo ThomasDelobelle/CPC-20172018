@@ -1,0 +1,6 @@
+Description : 
+Search for each possibility, if the substring is already in the vector and print the length of the vector.
+
+Time Complexity : O(A²)
+
+Space Complexity : O(A)

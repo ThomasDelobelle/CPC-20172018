@@ -1,0 +1,6 @@
+Description : 
+Construct the tree and check if when a node is created if it's allow or not.
+
+Time Complexity : O(N log N)
+
+Space Complexity : O(N)

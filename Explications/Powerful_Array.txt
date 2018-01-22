@@ -1,0 +1,7 @@
+Description : 
+For each number, it will count the iterations of this number and make a sum which represent the square of the number of iteration multiply 
+by the number for each number which appears.
+
+Time Complexity : O(N*(p-q))
+
+Space Complexity : O(T)

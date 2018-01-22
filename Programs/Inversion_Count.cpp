@@ -7,9 +7,6 @@ int main(){
     ios_base::sync_with_stdio(false); //useful to accelerate execution
 
     int T,N,p,tmp(0);
-
-    cin.ignore();
-    string blank;
     vector<int> a;
     cin>>T;
     for(int i=0;i<T;i++){

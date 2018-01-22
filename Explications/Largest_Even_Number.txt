@@ -1,0 +1,6 @@
+Description : 
+Sort the String which is convert in a vector of int and take the last even number to construct the largest with all the numbers.
+
+Time Complexity : O(T*A log A)
+
+Space Complexity : O(A)

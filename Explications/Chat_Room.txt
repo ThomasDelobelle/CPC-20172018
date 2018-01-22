@@ -1,0 +1,6 @@
+Description : 
+Browse the letters of A and try to found the word hello.
+
+Time Complexity : O(A)
+
+Space Complexity : O(A)

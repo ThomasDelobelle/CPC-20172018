@@ -1,0 +1,6 @@
+Description : 
+For each number, the program compare with all the next numbers to found if the number considered is a leader.
+
+Time Complexity : O(N²)
+
+Space Complexity : O(N)

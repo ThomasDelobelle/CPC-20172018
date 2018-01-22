@@ -1,0 +1,6 @@
+Description : 
+Search for each segment if the others are nested (the left and right sides are inside the segment considered)
+
+Time Complexity : O(T²)
+
+Space Complexity : O(B)

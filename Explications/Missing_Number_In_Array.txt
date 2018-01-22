@@ -1,0 +1,6 @@
+Description : 
+Subtracts each elements in the array and add all the numbers from 1 to n and the result is the missing number.
+
+Time Complexity : O(N)
+
+Space Complexity : O(N)

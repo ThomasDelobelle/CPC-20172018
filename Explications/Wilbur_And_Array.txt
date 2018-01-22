@@ -1,0 +1,7 @@
+Description : 
+Sum for each element (except the first which is directly add to the sum) the absolute value of the difference between himself and his 
+predecessor and print the sum at the end of the vector.
+
+Time Complexity : O(T)
+
+Space Complexity : O(T)

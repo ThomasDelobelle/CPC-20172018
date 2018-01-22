@@ -1,0 +1,6 @@
+Description : 
+Adaptation of the formule given in the lesson.
+
+Time Complexity : O(N²)
+
+Space Complexity : O(N)

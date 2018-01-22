@@ -1,0 +1,7 @@
+Description : 
+The program search the middle of the sum of elements. And then it's will found the bar which is concerned. It do the ratio per person and
+the person who have the biggest ratio have the bar. If it's egual, Alicia have the bar.
+
+Time Complexity : O(T)
+
+Space Complexity : O(T²)

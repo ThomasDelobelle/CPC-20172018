@@ -1,0 +1,6 @@
+Description : 
+For each element, it prints the next element which is after his position. If it doesn't exist a number which is larger, it prints -1
+
+Time Complexity : O(N log N)
+
+Space Complexity : O(N)

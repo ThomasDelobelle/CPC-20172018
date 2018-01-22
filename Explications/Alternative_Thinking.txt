@@ -1,0 +1,6 @@
+Description : 
+Try to find all the possibilities with all the permutations.
+
+Time Complexity : O(T²)
+
+Space Complexity : O(T²)

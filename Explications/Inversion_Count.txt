@@ -1,0 +1,6 @@
+Description : 
+It count each number which is not in the increase order.
+
+Time Complexity : O(N)
+
+Space Complexity : O(N)

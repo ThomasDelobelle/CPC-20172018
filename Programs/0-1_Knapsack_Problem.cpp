@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <map>
 using namespace std;
 
 int main(){
@@ -9,7 +8,6 @@ int main(){
     int T,N,W,p;
     vector <int> wt;
     vector <int> val;
-    map<int,int> wtval;
     cin>>T;
     for(int i=0; i<T;i++){
         cin>>N>>W;
@@ -22,11 +20,9 @@ int main(){
             wt.push_back(p);
         }
         int tab[N+1][W+1];
-        for(int j=0; j<=W; j++){
-            tab[0][j] = 0;
-        }
         for(int j=1; j<=N; j++){
             for(int k=0; k<=W; k++){
+                tab[0][j] = 0;
                 if(wt[j]>k)
                     tab[j][k] = tab[j-1][k];
                 else
